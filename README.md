@@ -46,5 +46,5 @@ Determines the final destination’s pose in the /robot1/odom frame.
 
 ### Working Video
 
-[Watch the demo](results/tb3_control)
+[Watch the demo](results/tb3_control.mp4)
 
