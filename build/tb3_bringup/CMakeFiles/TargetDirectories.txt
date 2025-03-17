@@ -1,9 +1,0 @@
-/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_bringup/CMakeFiles/uninstall.dir
-/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_bringup/CMakeFiles/tb3_bringup_uninstall.dir
-/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_bringup/CMakeFiles/test.dir
-/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_bringup/CMakeFiles/edit_cache.dir
-/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_bringup/CMakeFiles/rebuild_cache.dir
-/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_bringup/CMakeFiles/list_install_components.dir
-/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_bringup/CMakeFiles/install.dir
-/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_bringup/CMakeFiles/install/local.dir
-/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_bringup/CMakeFiles/install/strip.dir

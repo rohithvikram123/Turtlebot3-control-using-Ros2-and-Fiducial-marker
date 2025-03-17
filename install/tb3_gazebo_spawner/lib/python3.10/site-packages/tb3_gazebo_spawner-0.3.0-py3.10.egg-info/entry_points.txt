@@ -1,3 +1,0 @@
-[console_scripts]
-tb3_gazebo_spawner = tb3_gazebo_spawner.tb3_gazebo_spawner:main
-
