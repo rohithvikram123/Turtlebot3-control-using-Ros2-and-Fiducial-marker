@@ -48,3 +48,14 @@ Determines the final destination’s pose in the /robot1/odom frame.
 
 [Watch the demo](results/tb3_control.mp4)
 
+
+## Dependencies
+
+Python 3.10.12
+
+opencv-contrib-python 4.6.0
+
+## Changes need to be made in your bashrc file
+
+export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:<path_to_your_package>/Turtlebot3-control-using-Ros2-and-Fiducial-marker/Turtlebot3_control/tb3_gazebo/models
+
