@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "ros2_aruco_interfaces__py",
+		"source" : "/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/ros2_aruco_interfaces/ros2_aruco_interfaces__py"
+	}
+}

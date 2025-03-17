@@ -1,0 +1,23 @@
+[0.870s] Invoking command in '/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/Turtlebot3_control/tb3_bringup/tb3_gazebo_spawner': PYTHONPATH=/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_gazebo_spawner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/install/tb3_gazebo_spawner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/tb3_gazebo_spawner build --build-base /home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_gazebo_spawner/build install --record /home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_gazebo_spawner/install.log --install-scripts $base/lib/tb3_gazebo_spawner --single-version-externally-managed install_data
+[1.096s] /home/rohithvikram/.local/lib/python3.10/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.096s]   warnings.warn(
+[1.121s] running egg_info
+[1.121s] writing ../../../build/tb3_gazebo_spawner/tb3_gazebo_spawner.egg-info/PKG-INFO
+[1.121s] writing dependency_links to ../../../build/tb3_gazebo_spawner/tb3_gazebo_spawner.egg-info/dependency_links.txt
+[1.121s] writing entry points to ../../../build/tb3_gazebo_spawner/tb3_gazebo_spawner.egg-info/entry_points.txt
+[1.121s] writing requirements to ../../../build/tb3_gazebo_spawner/tb3_gazebo_spawner.egg-info/requires.txt
+[1.122s] writing top-level names to ../../../build/tb3_gazebo_spawner/tb3_gazebo_spawner.egg-info/top_level.txt
+[1.123s] reading manifest file '../../../build/tb3_gazebo_spawner/tb3_gazebo_spawner.egg-info/SOURCES.txt'
+[1.124s] writing manifest file '../../../build/tb3_gazebo_spawner/tb3_gazebo_spawner.egg-info/SOURCES.txt'
+[1.124s] running build
+[1.124s] running build_py
+[1.124s] running install
+[1.125s] running install_lib
+[1.126s] running install_data
+[1.126s] running install_egg_info
+[1.127s] removing '/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/install/tb3_gazebo_spawner/lib/python3.10/site-packages/tb3_gazebo_spawner-0.3.0-py3.10.egg-info' (and everything under it)
+[1.128s] Copying ../../../build/tb3_gazebo_spawner/tb3_gazebo_spawner.egg-info to /home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/install/tb3_gazebo_spawner/lib/python3.10/site-packages/tb3_gazebo_spawner-0.3.0-py3.10.egg-info
+[1.128s] running install_scripts
+[1.147s] Installing tb3_gazebo_spawner script to /home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/install/tb3_gazebo_spawner/lib/tb3_gazebo_spawner
+[1.147s] writing list of installed files to '/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_gazebo_spawner/install.log'
+[1.169s] Invoked command in '/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/Turtlebot3_control/tb3_bringup/tb3_gazebo_spawner' returned '0': PYTHONPATH=/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_gazebo_spawner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/install/tb3_gazebo_spawner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/tb3_gazebo_spawner build --build-base /home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_gazebo_spawner/build install --record /home/rohithvikram/C++learning/Turtlebot3-control-using-Ros2-and-Fiducial-marker/build/tb3_gazebo_spawner/install.log --install-scripts $base/lib/tb3_gazebo_spawner --single-version-externally-managed install_data
