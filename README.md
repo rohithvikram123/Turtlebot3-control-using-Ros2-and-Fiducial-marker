@@ -34,12 +34,17 @@ Determines the final destination’s pose in the /robot1/odom frame.
 
 ### Turtlebot reaching the target
 
-<img src="results/tb3_control.png" alt="My Image" width="500">
+<img src="results/tb3_control.png" alt="My Image" width="800">
 
 ### TurtleBot detects the fiducial marker and determines the final destination
 
-<img src="results/fiducial_marker.png" alt="My Image" width="500">
+<img src="results/fiducial_marker.png" alt="My Image" width="800">
 
 ### Final Tf tree
 
-<img src="results/frames.png" alt="My Image" width="500">
+<img src="results/frames.png" alt="My Image" width="800">
+
+### Working Video
+
+[Watch the demo](results/tb3_control)
+
