@@ -30,6 +30,16 @@ Determines the final destination’s pose in the /robot1/odom frame.
 
 ### The TurtleBot moves to the final destination specified in the computed transform.
 
-## Demo
+## Results
 
-<video src="results/tb3_control.mp4" controls width="600"></video>
+### Turtlebot reaching the target
+
+<img src="results/tb3_control.png" alt="My Image" width="500">
+
+### TurtleBot detects the fiducial marker and determines the final destination
+
+<img src="results/fiducial_marker.png" alt="My Image" width="500">
+
+### Final Tf tree
+
+<img src="results/frames.png" alt="My Image" width="500">
