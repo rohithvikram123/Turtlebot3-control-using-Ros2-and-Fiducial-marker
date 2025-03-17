@@ -32,4 +32,4 @@ Determines the final destination’s pose in the /robot1/odom frame.
 
 ## Demo
 
-<video src="tb3_control" controls width="600"></video>
+<video src="results/tb3_control.mp4" controls width="600"></video>
